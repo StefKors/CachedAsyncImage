@@ -3,7 +3,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "swiftui-cached-async-image",
+    name: "CachedAsyncImage",
     platforms: [
         .iOS(.v13),
         .macOS(.v10_15),
